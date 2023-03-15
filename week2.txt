@@ -6,3 +6,5 @@ hash code
 
 lesson02(remote repositoty)
 github
+echo, cat
+remote add origin, push
